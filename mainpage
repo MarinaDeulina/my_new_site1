@@ -1,0 +1,13 @@
+<html>
+  <body>
+    <header>
+    Шапка сайта
+    </header>
+    <main>
+    Основной код
+    </main>
+    <footer>
+    Подвал сайта
+    </footer>
+  </body>
+</html>
